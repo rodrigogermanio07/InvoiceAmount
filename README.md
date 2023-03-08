@@ -1,6 +1,6 @@
 # InvoiceAmount 
 
-Este projeto Java é uma calcula o valor de uma fatura de uma comprar preço sobre quantidade de item comprado.
+Este projeto Java, calcula o valor de uma fatura de  comprar preço sobre quantidade de item comprado.
 
 ## Pré-requisitos
 
